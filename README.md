@@ -1,6 +1,9 @@
+### [Приклади з курсу](https://github.com/Svitlana-Kostromitina/Github-Examples-from-courses/blob/main/README.md)
+
 # GIT
 
 **Git** – це система для керування та контролю версіями. Це інструмент, в якому зберігається код та історія його змін.
+
 
 ## Основні поняття
 
